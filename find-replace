@@ -1,0 +1,3 @@
+//Find & Replace 
+UPDATE `table_name`
+SET `field_name` = replace(same_field_name, 'unwanted_text', 'wanted_text')
